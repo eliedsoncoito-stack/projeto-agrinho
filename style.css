@@ -133,3 +133,18 @@ footer {
     padding: 2rem;
     background: #000;
 }
+
+/* ==================== FOTO DO SINAL ==================== */
+.yuri-sign {
+    margin-top: 40px;
+    width: 280px;
+    max-width: 90%;
+    height: auto;
+    object-fit: contain;
+    border-radius: 20px;
+    box-shadow: 0 0 40px rgba(255, 0, 255, 0.7);
+    border: 5px solid #ff00ff;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
